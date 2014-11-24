@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Torrnados</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="clubName">Torrnados Cricket Club</string>
+    <string name="wicket">Wicket</string>
+    <string name="currentScore">Current Score</string>
+    <string name="incrementScore">+1</string>
+    <string name="decrementScore">-1</string>
+	<string name="reset">Reset</string>
+	<string name="incrementWicket">+Wicket</string>
+	<string name="decrementWicket">-Wicket</string>
+
+</resources>
